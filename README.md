@@ -17,7 +17,7 @@ I love UI/UX Design
                   ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://discord.com/users/delimac" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
