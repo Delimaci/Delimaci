@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student | UI/UX Developer
 -------------------------
 
-I love UI/UX Design
+Currently obsessed with Nextjs, Supabase
 
 * 🌍  I'm based in United Kingdom
-* 🧠  I'm learning UI/UX - WordPress
+* 🧠  I'm learning UI/UX, but also the backend part of it 🤓
 * 🤝  I'm open to collaborating on any web developments - WordPress Developments, ReactJS
 * ⚡  Game developments, Wireframes, UI/UX designs
 
