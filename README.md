@@ -10,6 +10,7 @@ Currently obsessed with Nextjs, Supabase
 * 🧠  I'm learning UI/UX, but also the backend part of it 🤓
 * 🤝  I'm open to collaborating on any web developments - Nextjs, framer.motion, even WordPress 
 * ⚡  I want to also learn React Native, but can also do Wireframes, UI/UX designs for you
+* 👩‍🎨  I also have worked with some web3 things, made my own smart contract and hosted an NFT collection of 10,000 unique Rainbees a side project to learn web3!
 
 ### Skills
 
