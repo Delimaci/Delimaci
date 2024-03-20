@@ -8,8 +8,8 @@ Currently obsessed with Nextjs, Supabase
 
 * 🌍  I'm based in United Kingdom
 * 🧠  I'm learning UI/UX, but also the backend part of it 🤓
-* 🤝  I'm open to collaborating on any web developments - WordPress Developments, ReactJS
-* ⚡  Game developments, Wireframes, UI/UX designs
+* 🤝  I'm open to collaborating on any web developments - Nextjs, framer.motion, even WordPress 
+* ⚡  I want to also learn React Native, but can also do Wireframes, UI/UX designs for you
 
 ### Skills
 
