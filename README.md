@@ -6,10 +6,9 @@ Student | Software Engineer
 
 Currently mastering my skills in js
 
-* 🌍  I'm based in United Kingdom
-* 🧠  I'm learning UI/UX, but also the backend part of it 🤓
+* 🌍  Based in United Kingdom
+* 🧠  Learning JS
 * 🤝  I'm open to collaborating on any web developments - Nextjs, React, WordPress 
-* ⚡  I want to also learn React Native, but can also do Wireframes, UI/UX designs for you
 * 👩‍🎨  I also have worked with some web3 things, made my own smart contract and hosted an NFT collection of 10,000 unique Rainbees a side project to learn web3!
 
 ### Skills
