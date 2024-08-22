@@ -4,7 +4,7 @@
 Software Engineer
 -------------------------
 
-Currently mastering my skills in js
+Currently mastering my skills in React
 
 * 🌍  Based in United Kingdom
 * 🧠  Learning JS
