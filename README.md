@@ -4,10 +4,9 @@
 Software Engineer
 -------------------------
 
-Currently mastering my skills in React
 
 * 🌍  UK
-* 🧠  Currently Learning React
+* 🧠  Currently mastering my skills in React
 * 🤝  I'm open to collaborating on any web developments - React, WordPress 
 
 ### Skills
