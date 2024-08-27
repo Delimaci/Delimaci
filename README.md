@@ -6,10 +6,9 @@ Software Engineer
 
 Currently mastering my skills in React
 
-* 🌍  Based in United Kingdom
-* 🧠  Learning JS
-* 🤝  I'm open to collaborating on any web developments - Nextjs, React, WordPress 
-* 👩‍🎨  I also have worked with some web3 things, made my own smart contract and hosted an NFT collection of 10,000 unique Rainbees a side project to learn web3!
+* 🌍  UK
+* 🧠  Currently Learning React
+* 🤝  I'm open to collaborating on any web developments - React, WordPress 
 
 ### Skills
 
