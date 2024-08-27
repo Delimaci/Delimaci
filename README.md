@@ -1,13 +1,13 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
-Software Engineer
+Freelance Web Developer
 -------------------------
 
 
 * 🌍  UK
 * 🧠  Currently mastering my skills in React
-* 🤝  I'm open to collaborating on any web developments - React, WordPress 
+* 🤝  I'm currently available for Web Development Requests
 
 ### Skills
 
