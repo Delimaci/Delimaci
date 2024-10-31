@@ -1,6 +1,6 @@
 Gabi, 
 
-UK Software engineer.
+UK Software Engineer.
 
 I'm primarily interested in full-stack development and currently work as a software engineer in HealthCare 🏥
 
