@@ -4,7 +4,7 @@ I'm Gabi,
 
 With refined expertise in **full-stack development**, I am dedicated to the **healthcare sector** 🏥 
 
-I architect sophisticated digital solutions that enhance quality and accessibility, embodying a commitment to transformative technological innovation.
+I&apos;m a software engineer based in the United Kingdom specializing in healthcare applications. My goal is to deliver & maintain substantial and highly complex applications for all health organizations.
 
 ## Interests  
 
