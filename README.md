@@ -11,4 +11,4 @@ I architect sophisticated digital solutions that enhance quality and accessibili
 I am captivated by the latest advancements in scientific inquiry, closely following pioneering research that reshapes the boundaries of human knowledge.
 
 **Let’s Connect!**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+[LinkedIn](https://linkedin.com/in/gabrielle-c-5137542b2)
