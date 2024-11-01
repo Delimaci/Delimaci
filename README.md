@@ -1,11 +1,9 @@
 Gabi, 
 
-UK Software Engineer.
+UK Software Engineer,
 
-With a refined expertise in full-stack development, currently devoted to the healthcare domain 🏥
+With refined expertise in full-stack development, I am dedicated to the healthcare sector 🏥
 
-My work is dedicated to architecting sophisticated digital solutions that seek to elevate the quality and accessibility of healthcare 
+Architecting sophisticated digital solutions that enhance quality and accessibility. My work embodies a commitment to transformative technological innovation.
 
-With a professional focus on crafting comprehensive digital solutions, I am dedicated to enhancing healthcare through technology.
-
-Beyond my professional pursuits, I am profoundly captivated by the latest advancements in scientific inquiry, keeping an attentive eye on pioneering research that reshapes the contours of human knowledge and understanding.
+Beyond my professional pursuits, I am captivated by the latest advancements in scientific inquiry, closely following pioneering research that reshapes the boundaries of human knowledge.
