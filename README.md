@@ -1,17 +1,23 @@
-# Gabi  
-
-**UK Software Engineer**  
+# Gabi | UK Software Engineer  
 
 ---
 
-With refined expertise in full-stack development, I am dedicated to advancing the healthcare sector 🏥.  
+**Full-Stack Developer** specializing in healthcare 🏥  
+Architecting digital solutions that enhance quality and accessibility.  
 
-## Professional Focus  
-I specialize in architecting sophisticated digital solutions that enhance quality and accessibility, embodying a commitment to transformative technological innovation.  
+---
+
+## Expertise
+- **Full-Stack Development**  
+- **Healthcare Technology**  
+- **Digital Innovation**  
+
+---
 
 ## Interests  
-Beyond my professional endeavors, I am deeply captivated by the latest advancements in scientific inquiry, closely following pioneering research that reshapes the boundaries of human knowledge.
+Passionate about advancements in scientific inquiry and pioneering research that expands human knowledge.
 
 ---
 
-Feel free to connect with me to discuss collaboration opportunities or share insights on the intersection of technology and healthcare!
+**Let’s Connect!**  
+[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
