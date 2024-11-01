@@ -2,8 +2,10 @@ Gabi,
 
 UK Software Engineer.
 
-I'm primarily interested in full-stack development and currently work as a software engineer within the healthcare sector 🏥
+With a refined expertise in full-stack development, currently devoted to the healthcare domain 🏥
+
+My work is dedicated to architecting sophisticated digital solutions that seek to elevate the quality and accessibility of healthcare 
 
 With a professional focus on crafting comprehensive digital solutions, I am dedicated to enhancing healthcare through technology.
 
-Beyond my career, I have a keen interest in the forefront of scientific discovery and innovation, following advancements that push the boundaries of our understanding.
+Beyond my professional pursuits, I am profoundly captivated by the latest advancements in scientific inquiry, keeping an attentive eye on pioneering research that reshapes the contours of human knowledge and understanding.
